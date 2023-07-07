@@ -3,10 +3,6 @@ This Python-based project offers a comprehensive exploration of urban mobility i
 <h1 align="center">London Transport Data Analysis</h1>
 
 <p align="center">
-  <img src="https://example.com/your-logo.png" alt="Logo" width="300" height="300">
-</p>
-
-<p align="center">
   A comprehensive analysis of London's transportation system, exploring bike trips, public transport usage, fuel consumption, air quality, and emissions.
 </p>
 
